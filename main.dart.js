@@ -86712,7 +86712,7 @@ r=s.style
 r.height="100%"
 r=s.style
 r.border="none"
-s.src="assets/web/adview.html"
+s.src="assets/web/index.html"
 return s},
 $S:534}
 A.apO.prototype={
